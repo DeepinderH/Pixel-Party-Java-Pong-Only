@@ -1,6 +1,5 @@
 # Pixel-Party-Java-Pong-Only
-I created the Pong portion for this game we created and named "Pixel Party". It merges together Pong, Pacman and Frogger.
-This project was created for my introductory Java class and other students are responsible for creating the Pacman and Frogger games.
+Created Pong, Pacman and Frogger and merged them all together into one game and named it "Pixel Party".
 
 Project Description:
 
